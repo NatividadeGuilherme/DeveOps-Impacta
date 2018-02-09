@@ -1,3 +1,3 @@
-# DeveOps-Impacta
+# DeveOps-Impacta Tecnologia
 # Função / aluno
 # faculdade: impacta
